@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ddd;
+}
+
+#projects {
+  background-color: #ddd;
+}
+
+footer {
+  background-color: #343a40;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 4rem;
+}
